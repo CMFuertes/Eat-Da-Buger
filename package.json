@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CMFuertes/Eat-Da-Buger/issues"
   },
-  "homepage": "https://github.com/CMFuertes/Eat-Da-Buger#readme"
+  "homepage": "https://github.com/CMFuertes/Eat-Da-Buger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
