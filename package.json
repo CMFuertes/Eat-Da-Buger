@@ -1,0 +1,19 @@
+{
+  "name": "eat-da-buger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMFuertes/Eat-Da-Buger.git"
+  },
+  "author": "CMFuertes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CMFuertes/Eat-Da-Buger/issues"
+  },
+  "homepage": "https://github.com/CMFuertes/Eat-Da-Buger#readme"
+}
