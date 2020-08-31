@@ -37,6 +37,8 @@ https://github.com/CMFuertes/Eat-Da-Buger
 
 A simple burger logger app deployed through Heroku. Made with mysql, express, express-handlebars and a homemade ORM (yum!)
 
+Link: https://immense-beyond-68314.herokuapp.com/
+
 ## Installation
 
 In order to edit this application, after cloning the repo, users are to enter the comand "NPM install" in order to obtain all of the required dependecies, which include express, express-handlebars, and mysql. 
