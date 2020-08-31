@@ -1,6 +1,6 @@
 # Eat-Da-Buger ![NPM](https://img.shields.io/npm/l/sta)
 
-# Node Express Handlebars
+## Node Express Handlebars
 
 ## Table Of Contents 
 
