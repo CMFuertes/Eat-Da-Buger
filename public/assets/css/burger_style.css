@@ -1,20 +1,42 @@
+body{
+  background-image: url("../img/burgerbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1{
+color: #ee851c;
+
+}
+
+h2{
+  color:#ffcc98;
+}
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    /* background: #faebd7; */
+    color: white;
   }
   
   .label {
     font-weight: bold;
+    color: white;
   }
   
   .create-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+    /* background: aqua; */
+    color: white;
   }
   
   .form-group {
     margin-bottom: 5px;
   }
   
+  .submutbtn {
+    color:lime;
+    background-color: #FFCD98;
+  }
