@@ -45,7 +45,7 @@ In order to edit this application, after cloning the repo, users are to enter th
 
 ## Usage
 
-Users can utilize this application in order to keep track of employees, their roles, and departments within their company. As well as easily keep track of salary changes.
+Use this to log how many burgers you want to have, which ones you do not, as well as adding new burgers and deleting some as well. 
 
 ## Tests
 
