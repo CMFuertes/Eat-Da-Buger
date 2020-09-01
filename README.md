@@ -62,4 +62,4 @@ If you have any questions, please contact CMFuertes at cristhal.fuertes@gmail.co
 
 MIT
 
-![GitHub](https://img.shields.io/github/license/CMFuertes/MySQL-Employee-Tracker)
+![GitHub](https://img.shields.io/github/license/CMFuertes/Eat-Da-Buger)
