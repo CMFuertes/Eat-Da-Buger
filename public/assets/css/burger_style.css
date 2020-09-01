@@ -16,7 +16,6 @@ h2{
 li {
     padding: 5px;
     margin: 5px;
-    /* background: #faebd7; */
     color: #ee851c;
   }
   
@@ -28,18 +27,11 @@ li {
   .create-form {
     padding: 5px;
     margin: 5px;
-    /* background: aqua; */
     color: #ee851c;
   }
-  
   .form-group {
     margin-bottom: 5px;
   }
-  
-  /* .submutbtn {
-    color:#792B1C;
-    background-color: #FFCD98;
-  } */
 
  #button {
     color:#792B1C;
